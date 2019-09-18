@@ -31,4 +31,4 @@ Andrey Kozik
 ```
 
 ## Experience ##
-* [Codewars Profile](https://www.codewars.com/users/Andrey%20Kozik) | Train Katas
+[Codewars Profile](https://www.codewars.com/users/Andrey%20Kozik) | Train Katas
