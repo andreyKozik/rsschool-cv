@@ -38,3 +38,6 @@ Andrey Kozik
 * learn.javascript.ru
 * [codecademy](https://www.codecademy.com/profiles/andreiKozik0487288927)
 * [HTMLAcademy](https://htmlacademy.ru/profile/id1065683)
+
+## English ##
+* Pre-intermediate
