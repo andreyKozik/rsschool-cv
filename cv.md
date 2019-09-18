@@ -15,3 +15,17 @@ Andrey Kozik
 * HTML5
 * CSS3
 * **Tools:** Dev Tools, Git, VScode, Adobe Photoshop
+
+## Code Examples ##
+* JavaScript
+```
+  function persistence(num) {
+    var counter = 0;
+    var finishNum = num;
+    while (finishNum > 9 ) {
+      finishNum = finishNum.toString().split('').reduce((a, b) => +a * +b);
+      counter ++;
+    }
+    return counter;
+  }
+```
