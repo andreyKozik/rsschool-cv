@@ -32,3 +32,9 @@ Andrey Kozik
 
 ## Experience ##
 [Codewars Profile](https://www.codewars.com/users/Andrey%20Kozik) | Train Katas
+
+## Education ##
+* Polotsk State University(2013 - 2018) | civil engineer
+* learn.javascript.ru
+* [codecademy](https://www.codecademy.com/profiles/andreiKozik0487288927)
+* [HTMLAcademy](https://htmlacademy.ru/profile/id1065683)
