@@ -1,0 +1,156 @@
+@font-face { 
+  font-family: 'Trocchi'; 
+  src: url('fonts/Trocchi/Trocchi-Regular.ttf')  format('truetype');  
+  font-weight: normal; 
+  font-style: normal;
+}
+
+@font-face { 
+  font-family: 'Leckerli One'; 
+  src: url('fonts/Leckerli_One/LeckerliOne-Regular.ttf')  format('truetype');  
+  font-weight: normal; 
+  font-style: normal;
+}
+
+@font-face { 
+  font-family: 'Aldrich'; 
+  src: url('fonts/Aldrich/Aldrich-Regular.ttf')  format('truetype');  
+  font-weight: normal; 
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    max-width: 680px;
+    height: auto;
+    margin: 0 auto;
+    font-family: 'Trocchi', Arial, serif;
+}
+
+.background {
+    background-image: url(../rsschool-cv/img/background.jpg);
+    background-size: cover;
+}
+
+header {
+    width: 100%;
+    height: 300px;
+    position: relative;
+    margin: 0px auto 0 auto;
+    background-size: cover;
+    padding-top: 50px;
+}
+
+.header img {
+    width: 150px;
+    margin: 0px auto 30px auto;
+    display: block;
+    position: relative;
+    border: 3px solid white;
+    border-radius: 7px;
+}
+
+.header h1, h3 {
+    display: flex;
+    justify-content: center;
+    margin: 0px auto 15px auto;
+}
+
+.header h3 {
+    font-family: 'Leckerli One', Arial, cursive;
+}
+
+.header h1 {
+    color: rgba(255, 255, 255, .9);
+    font-family: 'Aldrich', Arial, sans-serif;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    color: rgba(255, 255, 255, .6);
+}
+
+main div {
+    display: block;
+    width: 45%;
+    background-size: cover;
+    margin-bottom: 30px;
+}
+
+ h4 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: rgba(255, 255, 255, .9);
+    font-family: 'Aldrich', sans-serif;
+}
+
+.skills span {
+    display: flex;
+    justify-content: flex-end;
+    background-image: url(../rsschool-cv/img/Rectangle\ 1.png);
+    background-size: cover;
+    padding: 15px
+}
+
+
+
+.skills span a:hover {
+    display: block;
+    position: relative;
+    bottom: 4px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+footer div {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+footer a img {
+    width: 20px;
+    background-color: azure;
+    border: 1px solid white;
+    border-radius: 4px;
+} 
+
+footer a img:hover {
+    display:block;
+    position: relative;
+    width: 25px;
+    bottom: 10px; 
+}
+
+ a {
+    color: #b98b37c7; 
+   }
+   a:visited {
+    color: #b98b37c7; 
+   }
+   a:active {
+    color: #b98c37a4; 
+   }
+
+   .skills span a {
+    color:  #cfcdcd;
+   }
+   .skills span a:visited {
+    color: #cfcdcd;
+   }
+   .skills span a:active {
+    color: #cfcdcd;
+   }
